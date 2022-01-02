@@ -139,7 +139,7 @@ public:
 			attr.threshold = data->threshold;
 			for (int i = 0; i < 6; ++i)
 			{
-				attr.raw += data->raw[i] << (8 * i);
+				attr.raw += static_cast<uint64_t>(data->raw[i]) << (8 * i);
 			}
 			attribute->push_back(attr);
 		}, &attribute);
