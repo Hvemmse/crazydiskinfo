@@ -1,4 +1,5 @@
-# CrazyDiskInfo (forked version)
+# CrazyDiskInfo (forked bug fixed version)
+![image](https://user-images.githubusercontent.com/32232575/151078336-b265c576-40c6-46ae-8860-5c5edba09e36.png)
 ![image](https://user-images.githubusercontent.com/32232575/151077417-f466a556-b543-44bb-8c6b-79f978920794.png)
 
 ## Introduction
