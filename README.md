@@ -1,5 +1,5 @@
 # CrazyDiskInfo (forked version)
-![](http://raw.github.com/wiki/otakuto/CrazyDiskInfo/images/0.png)
+![image](https://user-images.githubusercontent.com/32232575/151077417-f466a556-b543-44bb-8c6b-79f978920794.png)
 
 ## Introduction
 CrazyDiskInfo is an interactive TUI S.M.A.R.T viewer for Unix systems.
