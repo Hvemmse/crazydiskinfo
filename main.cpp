@@ -10,7 +10,7 @@
 #include <dirent.h>
 
 std::string const TITLE = "CrazyDiskInfo";
-std::string const VERSION = "1.1.0";
+std::string const VERSION = "1.1.0a";
 
 constexpr int const STATUS_WIDTH = 83;
 
