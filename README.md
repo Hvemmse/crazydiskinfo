@@ -20,13 +20,13 @@ This forked version includes some bug fixes.
 ```
 
 ## Git clone
-
+git clone https://github.com/Hvemmse/crazydiskinfo.git
 
 ## Build and Run
 ```
-$ mkdir build
-$ cd build
-$ cmake ..
-$ make && sudo make install
-$ sudo crazy
+ mkdir build
+ cd build
+ cmake ..
+ make && sudo make install
+ sudo crazy
 ```
