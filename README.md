@@ -19,11 +19,14 @@ This forked version includes some bug fixes.
 # apt-get install libatasmart-dev libncurses5-dev libncursesw5-dev
 ```
 
+## Git clone
+
+
 ## Build and Run
 ```
 $ mkdir build
 $ cd build
 $ cmake ..
-$ make && make install
+$ make && sudo make install
 $ sudo crazy
 ```
